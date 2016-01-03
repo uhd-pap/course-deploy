@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib
+jupyter
+nbgrader
+nose
