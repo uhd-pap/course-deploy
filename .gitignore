@@ -66,6 +66,9 @@ target/
 .ipynb_checkpoints/
 
 
+# Pelican Static Site Generator
+web/output/
+
 # OSX
 
 .DS_Store
