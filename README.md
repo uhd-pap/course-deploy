@@ -4,8 +4,8 @@
 
 Dieser Kurs wird gerade konzipiert und soll im Rahmen des Physikalischen Anfängerpraktikums der Universität Heidelberg eine Einführung in die wissenschaftliche Arbeit mit Python geben.
 
-- [**Interaktive Kursmaterialien starten**](http://mybinder.org/repo/uhd-pap/course/index.ipynb)
-- [Kursmaterialien nur lesen](http://nbviewer.jupyter.org/github/uhd-pap/course/index.ipynb)
+- [**Interaktive Kursmaterialien starten**](http://mybinder.org/repo/uhd-pap/course/tree/index.ipynb)
+- [Kursmaterialien nur lesen](http://nbviewer.jupyter.org/github/uhd-pap/course/blob/master/index.ipynb)
 
 ## Credits
 
