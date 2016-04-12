@@ -11,8 +11,9 @@ Dieser Kurs soll im Rahmen des Physikalischen Anf√§ngerpraktikums der Universit√
 
 ## Deployment
 
-- To clear all output from the notebooks on commit, add https://gist.github.com/minrk/6176788 to `.git/hooks/pre-commit` and make sure `nbstripout` exists in the `$Path`, you may need to `pip install nbstripout`.
-- Run `./deploy.sh`. The script runs `nbgrader assign` and pushes the repository to the `deploy` remote.
+- Place the repository content in a `source/course/` directory.
+- To clear all output from the notebooks, `pip install nbstripout` and `nbstripout *.ipynb`.
+- Run `./deploy.sh`. The script runs `nbgrader assign` in `../../` and pushes the repository to the `deploy` remote.
 - Re-compile on http://mybinder.org/.
 
 
