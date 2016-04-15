@@ -8,6 +8,8 @@ Dieser Kurs soll im Rahmen des Physikalischen Anf√§ngerpraktikums der Universit√
 - [**Interaktive Kursmaterialien starten**](http://mybinder.org/repo/uhd-pap/course-deploy)
 - [Kursmaterialien nur lesen](http://nbviewer.jupyter.org/github/uhd-pap/course/blob/master/index.ipynb)
 
+Pull-Requests mit Verbesserungsvorschl√§gen sind immer willkommen!
+
 
 ## Deployment
 
@@ -21,4 +23,4 @@ Dieser Kurs soll im Rahmen des Physikalischen Anf√§ngerpraktikums der Universit√
 
 Der Kurs wird konzipiert und implementiert von [Nils Fischer](http://github.com/knly).
 
-Die Inhalte basieren auf dem Kurs [Python: Programming for Scientists_](https://github.com/astrofrog/py4sci) von [Thomas Robitaille](http://www2.mpia-hd.mpg.de/~robitaille/).
+Die Inhalte basieren auf dem Kurs [_Python: Programming for Scientists_](https://github.com/astrofrog/py4sci) von [Thomas Robitaille](http://www2.mpia-hd.mpg.de/~robitaille/).
