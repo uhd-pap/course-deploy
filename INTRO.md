@@ -12,4 +12,8 @@ Jupyter Notebooks eignen sich hervorragend für die Auswertung der Versuche in P
 
 - [Python und Jupyter Notebook im Praktikum verwenden](http://nbviewer.jupyter.org/github/uhd-pap/course/blob/master/setup.ipynb)
 
-Für Hinweise und Verbesserungsvorschläge zum Python-Einführungskurs oder zur Verwendung von Python im Physikalischen Anfängerpraktikum sind wir jederzeit dankbar. Melden Sie sich dazu einfach bei [Nils Fischer](n.fischer@stud.uni-heidelberg.de) (Konzeption und Implementierung des Kurses) oder [Jens Wagner](jens.wagner@urz.uni-heidelberg.de) (Praktikumsleitung). Der Kurs steht außerdem als Open Source [auf GitHub](https://github.com/uhd-pap/course) zur Verfügung.
+Mit Ihrem Feedback können wir diesen Kurs und die Verwendung von Python im Physikalischen Anfängerpraktikum für Sie weiter verbessern. Wir bitten Sie daher, anschließend kurz die folgenden Fragen zu beantworten:
+
+- [Feedback zum Online-Einführungskurs und Python im PAP](https://goo.gl/forms/nvuPvEOCP1CMrp5X2)
+
+Melden Sie sich außerdem jederzeit bei [Nils Fischer](https://github.com/knly) (Konzeption und Implementierung des Kurses) oder [Jens Wagner](http://www.physi.uni-heidelberg.de/Einrichtungen/AP/) (Praktikumsleitung) mit Anmerkungen oder Vorschlägen. Der Kurs steht zudem als Open Source [auf GitHub](https://github.com/uhd-pap/course) zur Verfügung.

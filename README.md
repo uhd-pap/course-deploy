@@ -8,7 +8,9 @@ Dieser Kurs soll im Rahmen des Physikalischen Anfängerpraktikums der Universit�
 - [**Interaktive Kursmaterialien starten**](http://mybinder.org/repo/uhd-pap/course-deploy)
 - [Kursmaterialien nur lesen](http://nbviewer.jupyter.org/github/uhd-pap/course/blob/master/index.ipynb)
 
-Pull-Requests mit Verbesserungsvorschlägen sind immer willkommen!
+Pull-Requests mit Verbesserungsvorschlägen sind immer willkommen! Außerdem könnt ihr uns über folgende Umfrage euer Feedback mitteilen:
+
+- [Feedback zum Online-Einführungskurs und Python im PAP](https://goo.gl/forms/nvuPvEOCP1CMrp5X2)
 
 
 ## Deployment
@@ -21,6 +23,6 @@ Pull-Requests mit Verbesserungsvorschlägen sind immer willkommen!
 
 ## Credits
 
-Der Kurs wird konzipiert und implementiert von [Nils Fischer](http://github.com/knly).
+Der Kurs wurde konzipiert und implementiert von [Nils Fischer](http://github.com/knly).
 
 Die Inhalte basieren auf dem Kurs [_Python: Programming for Scientists_](https://github.com/astrofrog/py4sci) von [Thomas Robitaille](http://www2.mpia-hd.mpg.de/~robitaille/).
