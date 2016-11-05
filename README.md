@@ -16,7 +16,7 @@ Pull-Requests mit Verbesserungsvorschlägen sind immer willkommen! Außerdem kö
 ## Deployment
 
 - Place the repository content in a `source/course/` directory.
-- To clear all output from the notebooks, `pip install nbstripout` and `nbstripout *.ipynb`.
+- To `gitignore` output from the notebooks, `pip install nbstripout` and `nbstripout --install`.
 - Run `./deploy.sh`. The script runs `nbgrader assign` in `../../` and pushes the repository to the `deploy` remote.
 - Re-compile on http://mybinder.org/.
 
